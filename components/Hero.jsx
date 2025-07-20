@@ -80,8 +80,8 @@ function Hero() {
           AirPods Pro
         </h1>
         <div className="absolute lg:bottom-10 lg:mt-0 mt-60 hero-buttons z-[100]  w-full h-32 flex lg:flex-row flex-col items-center justify-center " >
-          <a href="https://youtu.be/fVW8-px4Ufw" target="_blank" className="text-2xl flex items-center cursor-pointer hover:underline" >Watch Quiet the noise <MdOutlinePlayCircleOutline className="ml-2" /></a>
-          <a href="https://youtu.be/TBTgQbjRsqg" target="_blank" className="text-2xl flex items-center cursor-pointer lg:ml-10 lg:mt-0 mt-2 hover:underline" >Watch the film <MdOutlinePlayCircleOutline className="ml-2" /></a>
+          <a href="#" target="_blank" className="text-2xl flex items-center cursor-pointer hover:underline" >Watch Quiet the noise <MdOutlinePlayCircleOutline className="ml-2" /></a>
+          <a href="#" target="_blank" className="text-2xl flex items-center cursor-pointer lg:ml-10 lg:mt-0 mt-2 hover:underline" >Watch the film <MdOutlinePlayCircleOutline className="ml-2" /></a>
         </div>
         <div className="absolute lg:top-16 top-24 flex items-center justify-center">
           <HeroImage />
